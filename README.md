@@ -61,6 +61,6 @@
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
-
+![LeetCode Stats](https://leetcode.card.workers.dev/chakachakovich?theme=default&font=baloo&extension=null)
 ![l1msn github stats](https://github-readme-stats.vercel.app/api?username=l1msn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![l1msn Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l1msn&layout=compact&count_private=true&theme=gruvbox)
