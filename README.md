@@ -3,7 +3,7 @@
 
 I'm Alexander Sadykov, fullstack web-developer
 
--   :pencil2: Looking for work...
+-   :pencil2: Looking for job...
 -   :seedling: endless self-improvement
 -   :thought_balloon: You can contact me on [Discord](discordapp.com/users/282595265389789195) or [Gmail](chakachakovich@gmail.com)
 
