@@ -19,6 +19,7 @@ I'm Alexander Sadykov, fullstack web-developer
 
 -   [Backend project](https://github.com/l1msn/auth-ts) - JWT authorization with Email Verification
 -   [Frontend project](https://github.com/l1msn/social) - Full production site for IT articles
+-   [Landing Page project](https://github.com/l1msn/aboutMe) - Landging project about me and my path in IT
 -   :+1: I will be glad to any feedback and suggestions
 
 
