@@ -3,9 +3,9 @@
 
 I'm Alexander Sadykov, fullstack web-developer
 
--   :pencil2: Looking for job...
+-   :pencil2: Senior Frontend Dev in [JetInfosystem](https://jetinfosystems.com/?from=ru)
 -   :seedling: endless self-improvement
--   :thought_balloon: You can contact me on [Discord](discordapp.com/users/282595265389789195) or [Gmail](chakachakovich@gmail.com)
+-   :thought_balloon: You can contact me on [Discord](discordapp.com/users/282595265389789195) or [Gmail](italexanders@gmail.com)
 
 :scroll: My Stack
 ---
